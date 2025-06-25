@@ -23,7 +23,15 @@ You can include the following images for better clarity on how the system works:
 
  **RAG Pipeline Diagram**
  ![RAG Pipeline](https://github.com/Nikhil-Dadhich/ConvoWeb/blob/main/RAG.png)
+---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/prUNTRPsgAg">
+    <img src="https://github.com/Nikhil-Dadhich/ConvoWeb/blob/main/ConvoWeb.jpg" alt="Watch the demo" width="800">
+  </a>
+</p>
 ---
 
 ## 🚀 How to Run
