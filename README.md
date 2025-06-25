@@ -95,8 +95,6 @@ GEMINI_API_KEY=your_google_gemini_api_key
 
 ## 👨‍💻 Author
 
-**Nikhil CR7**
+**Nikhil Dadhich**
 
 Built with ❤️ using Streamlit and LangChain.
-
----
