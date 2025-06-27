@@ -18,9 +18,6 @@
 ---
 
 ## 📷 Design Overview
-
-You can include the following images for better clarity on how the system works:
-
  **RAG Pipeline Diagram**
  ![RAG Pipeline](https://github.com/Nikhil-Dadhich/ConvoWeb/blob/main/RAG.png)
 ---
